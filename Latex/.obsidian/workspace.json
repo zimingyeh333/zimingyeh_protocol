@@ -25,13 +25,14 @@
             "id": "93e699d4c0a42850",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "base.base",
-                "viewName": "Table"
+                "file": "Latex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "base"
+              "icon": "lucide-file",
+              "title": "Latex"
             }
           },
           {
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base.base",
+                "file": "Latex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for base"
+              "title": "Backlinks for Latex"
             }
           },
           {
@@ -137,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base.base",
+                "file": "Latex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from base"
+              "title": "Outgoing links from Latex"
             }
           },
           {
@@ -180,21 +181,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base.base",
+                "file": "Latex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of base"
+              "title": "Outline of Latex"
+            }
+          },
+          {
+            "id": "fce9f3e11adbc676",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +217,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cd160eba6045454",
+  "active": "93e699d4c0a42850",
   "lastOpenFiles": [
-    "Western blot.md",
     "base.base",
+    "Western blot.md",
     "Untitled.md",
     "templates/pcr.md",
     "Latex.md",
