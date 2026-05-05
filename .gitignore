@@ -4,9 +4,9 @@
 # Obsidian
 .obsidian/
 
-# 临时文件
+# tempo
 *.log
 *.tmp
 
-# 私密
+# private
 private/
