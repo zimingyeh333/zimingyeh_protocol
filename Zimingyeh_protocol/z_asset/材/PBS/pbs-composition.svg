@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">PBS composition and use logic</title>
+  <desc id="desc">A schematic showing PBS as an isotonic phosphate-buffered salt solution, with salts supporting osmotic balance and phosphate supporting pH buffering.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f9fb; }
+      .panel { fill: #ffffff; stroke: #cad5df; stroke-width: 2; rx: 18; }
+      .title { font-family: Arial, "Noto Sans CJK SC", sans-serif; font-size: 42px; font-weight: 700; fill: #183247; }
+      .subtitle { font-family: Arial, "Noto Sans CJK SC", sans-serif; font-size: 22px; fill: #426173; }
+      .label { font-family: Arial, "Noto Sans CJK SC", sans-serif; font-size: 24px; font-weight: 700; fill: #183247; }
+      .text { font-family: Arial, "Noto Sans CJK SC", sans-serif; font-size: 20px; fill: #314a5b; }
+      .small { font-family: Arial, "Noto Sans CJK SC", sans-serif; font-size: 17px; fill: #526a78; }
+      .salt { fill: #2f80ed; }
+      .phosphate { fill: #27ae60; }
+      .warning { fill: #d35400; }
+      .line { stroke: #8aa1b2; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .dash { stroke: #9eb0be; stroke-width: 2; stroke-dasharray: 7 8; fill: none; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8aa1b2"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="title" x="70" y="70">PBS：磷酸盐缓冲盐水</text>
+  <text class="subtitle" x="70" y="110">Phosphate-buffered saline = 盐环境 + pH 缓冲，用于洗涤、稀释和短时间维持样品</text>
+
+  <rect class="panel" x="70" y="155" width="330" height="440" rx="18"/>
+  <text class="label" x="105" y="205">盐组分</text>
+  <circle class="salt" cx="125" cy="255" r="28"/>
+  <text class="text" x="170" y="263">NaCl</text>
+  <text class="small" x="105" y="305">主要提供渗透压</text>
+  <text class="small" x="105" y="333">避免细胞处在低渗环境</text>
+  <circle class="salt" cx="125" cy="400" r="20"/>
+  <text class="text" x="170" y="407">KCl</text>
+  <text class="small" x="105" y="448">补充少量 K+</text>
+  <text class="small" x="105" y="476">让离子环境更接近生理状态</text>
+
+  <rect class="panel" x="435" y="155" width="330" height="440" rx="18"/>
+  <text class="label" x="470" y="205">磷酸盐缓冲体系</text>
+  <circle class="phosphate" cx="490" cy="260" r="26"/>
+  <text class="text" x="535" y="268">Na2HPO4</text>
+  <circle class="phosphate" cx="490" cy="360" r="26"/>
+  <text class="text" x="535" y="368">KH2PO4</text>
+  <path class="dash" d="M490 286 C455 310 455 335 490 334"/>
+  <text class="small" x="470" y="430">共同抵抗 pH 波动</text>
+  <text class="small" x="470" y="458">常见工作 pH：7.2-7.4</text>
+  <text class="small" x="470" y="486">适合短时间样品处理</text>
+
+  <path class="line" d="M400 365 H435"/>
+  <path class="line" d="M765 365 H820"/>
+
+  <rect class="panel" x="820" y="155" width="310" height="440" rx="18"/>
+  <text class="label" x="855" y="205">使用时看 5 点</text>
+  <text class="text" x="855" y="260">1. 1× 还是 10×</text>
+  <text class="text" x="855" y="305">2. pH</text>
+  <text class="text" x="855" y="350">3. 是否无菌</text>
+  <text class="text" x="855" y="395">4. 是否含 Ca2+/Mg2+</text>
+  <text class="text" x="855" y="440">5. 是否含酚红</text>
+  <rect x="855" y="490" width="230" height="56" rx="10" fill="#fff3e6" stroke="#f0b27a" stroke-width="2"/>
+  <text class="small warning" x="875" y="524">PBS 不能替代培养基</text>
+
+  <text class="small" x="70" y="660">典型选择：细胞消化前常用 sterile 1× PBS/DPBS, without Ca2+/Mg2+, without phenol red。</text>
+</svg>
+
