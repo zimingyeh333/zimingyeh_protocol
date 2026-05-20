@@ -4,7 +4,9 @@
 
 PBS（Phosphate-buffered saline，磷酸盐缓冲盐水；也常译为磷酸盐缓冲生理盐水）是一种接近生理渗透压、以磷酸盐维持 pH 的基础盐溶液。它不是[培养基](培养基.md)（culture medium），也不是[营养液](营养液.md)（nutrient solution），因为它基本不提供细胞长期生长所需的氨基酸、维生素、葡萄糖、血清或生长因子；它更像一种温和的“洗涤、稀释、短时间维持环境”的基础试剂。Corning 对 PBS 的产品说明也强调 PBS 由氯化钠、磷酸盐等组成，用于维持 pH，且通常对细胞相对温和。[参考：Corning PBS 产品说明](https://ecatalog.corning.com/life-sciences/b2c/US/en/Media%2C-Sera%2C-and-Reagents/Buffered-Salt-Solutions/Phosphate-Buffered-Saline/Corning%C2%AE-PBS-%28-Phosphate-Buffered-Saline%29/p/21-040-CV)
 
-![PBS 组成与使用逻辑](../z_asset/材/PBS/pbs-composition.svg)
+![PBS summary abstract graph](../z_asset/材/PBS/pbs-summary-abstract-en.png)
+
+![PBS 中文概要图](../z_asset/材/PBS/pbs-summary-abstract-zh.png)
 
 ## 名称与常见写法
 

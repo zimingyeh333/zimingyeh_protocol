@@ -6,7 +6,9 @@ DPBS（Dulbecco's phosphate-buffered saline，Dulbecco 磷酸盐缓冲盐水）�
 
 但 DPBS 不是“随便换个名字的 PBS”。在细胞培养语境里，DPBS 更强调 Dulbecco 配方体系，并且常见商业版本会细分为是否含 Ca2+/Mg2+、是否含 glucose（葡萄糖）、是否含 sodium pyruvate（丙酮酸钠）、是否含 phenol red（酚红）等。Thermo Fisher 的 balanced salt solutions 页面也把 PBS 和 DPBS 分开比较，并说明 DPBS 有更多配方变体。[参考：Thermo Fisher Balanced Salt Solutions](https://www.thermofisher.com/de/de/home/life-science/cell-culture/mammalian-cell-culture/reagents/balanced-salt-solutions.html)
 
-![DPBS 选择缩略图](../z_asset/材/DPBS/dpbs-selection-thumbnail.svg)
+![DPBS summary abstract graph](../z_asset/材/DPBS/dpbs-summary-abstract-en.png)
+
+![DPBS 中文概要图](../z_asset/材/DPBS/dpbs-summary-abstract-zh.png)
 
 ## 名称与常见写法
 

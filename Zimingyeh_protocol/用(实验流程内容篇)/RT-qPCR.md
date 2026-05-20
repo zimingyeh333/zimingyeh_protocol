@@ -8,7 +8,9 @@ RT-qPCR（Reverse transcription quantitative polymerase chain reaction，逆转�
 
 RT-qPCR 后来成为 RNA 表达检测的核心方法之一。为了提高实验可重复性，qPCR 领域提出了 MIQE（Minimum Information for Publication of Quantitative Real-Time PCR Experiments，定量实时 PCR 实验发表最低信息标准）指南，强调样本质量、引物信息、扩增效率、阴性对照、参考基因和数据分析方法必须清楚记录。2009 年 MIQE 指南是 qPCR 报告规范的经典起点；2025 年 MIQE 2.0 进一步更新了对 assay design（实验设计）、sample storage（样本保存）、nucleic acid preparation（核酸制备）、reverse transcription（逆转录）、PCR efficiency（PCR 效率）、melting curve analysis（熔解曲线分析）、data processing（数据处理）和 controls（对照）的建议。[参考：MIQE guidelines, 2009](https://academic.oup.com/clinchem/article/55/4/611/5631762)；[参考：MIQE 2.0, 2025](https://academic.oup.com/clinchem/article/71/6/634/8119148)
 
-![RT-qPCR 工作流概要](../z_asset/用/RT-qPCR/rt-qpcr-workflow.svg)
+![RT-qPCR summary abstract graph](../z_asset/用/RT-qPCR/rt-qpcr-summary-abstract-en.png)
+
+![RT-qPCR 中文概要图](../z_asset/用/RT-qPCR/rt-qpcr-summary-abstract-zh.png)
 
 ## 应用场景
 
@@ -21,7 +23,7 @@ RT-qPCR 后来成为 RNA 表达检测的核心方法之一。为了提高实验�
 
 注意：如果模板是 DNA，则通常称为 qPCR；如果模板来自 RNA，并包含逆转录步骤，则更准确地称为 RT-qPCR。本文主要讨论 RNA 表达检测场景下的 RT-qPCR。
 
-## 1. 实验目的
+## 实验目的
 
 RT-qPCR 的实验目的通常是：在不同样本之间比较一个或多个目标基因的相对表达量，或者通过标准曲线获得绝对拷贝数。常规科研中最常见的是相对定量，也就是把目标基因表达量先归一化到 reference gene（参考基因），再比较实验组和对照组。
 
@@ -36,7 +38,7 @@ RT-qPCR 的实验目的通常是：在不同样本之间比较一个或多个目
 
 MIQE 指南建议使用 Cq（quantification cycle，定量循环数）描述定量循环；很多仪器软件仍使用 Ct（threshold cycle，阈值循环数）。两者在日常交流中常被混用，但写正式 protocol 时建议优先使用 Cq，并说明仪器软件使用的术语。[参考：MIQE guidelines](https://academic.oup.com/clinchem/article/55/4/611/5631762)
 
-## 2. 简要实验原理
+## 简要实验原理
 
 RT-qPCR 可以拆成两个核心步骤：
 
@@ -45,14 +47,14 @@ RT-qPCR 可以拆成两个核心步骤：
 
 荧光检测常见两类体系：
 
-| 检测体系 | 原理 | 优点 | 注意事项 |
-| --- | --- | --- | --- |
-| SYBR Green | 染料结合双链 DNA 后发光 | 便宜、通用、设计简单 | 会检测所有双链 DNA，包括非特异扩增和 primer-dimer |
-| TaqMan probe | 探针被聚合酶 5' nuclease 活性切割后释放荧光 | 特异性更高，适合多重检测 | 成本更高，需要设计探针 |
+| 检测体系         | 原理                           | 优点           | 注意事项                              |
+| ------------ | ---------------------------- | ------------ | --------------------------------- |
+| SYBR Green   | 染料结合双链 DNA 后发光               | 便宜、通用、设计简单   | 会检测所有双链 DNA，包括非特异扩增和 primer-dimer |
+| TaqMan probe | 探针被聚合酶 5' nuclease 活性切割后释放荧光 | 特异性更高，适合多重检测 | 成本更高，需要设计探针                       |
 
 扩增曲线早期荧光低，随后进入指数扩增阶段，最后达到平台期。Cq 值越低，说明样本中目标模板初始量通常越高。理想情况下，每个循环扩增产物约增加一倍；实际实验中扩增效率通常需要通过标准曲线评估。Bio-Rad 和 Thermo Fisher 的 qPCR 指南都强调扩增效率、熔解曲线和阴性对照是判断实验质量的核心指标。[参考：Bio-Rad qPCR guide](https://www.bio-rad.com/en-us/applications-technologies/real-time-pcr-applications-guide)；[参考：Thermo Fisher real-time PCR basics](https://www.thermofisher.com/cn/zh/home/life-science/pcr/real-time-pcr/real-time-pcr-learning-center/real-time-pcr-basics.html)
 
-## 3. 实验所需试剂
+## 实验所需试剂
 
 以下按常规 RNA 表达 RT-qPCR 设计。不同试剂盒可把多个组分预混，实际准备时以说明书为准。
 
@@ -81,9 +83,9 @@ RT-qPCR 可以拆成两个核心步骤：
 - [光学封板膜](<../材(实验耗材工具篇)/光学封板膜.md>)：防止蒸发和交叉污染。
 - [qPCR 仪](<../材(实验耗材工具篇)/qPCR仪.md>)：实时记录扩增荧光信号。
 
-## 4. 实验操作
+## 实验操作
 
-### 4.1 实验设计与引物准备
+### 实验设计与引物准备
 
 **操作内容**：确定实验分组、样本数、目标基因、参考基因、阴性对照和重复方式。为每个基因设计或验证 qPCR 引物。
 
@@ -109,7 +111,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - primer-dimer（引物二聚体）：阴性对照出现扩增，低表达基因尤其容易被误判。
 - 参考基因不稳定：归一化后得到方向错误或夸大的表达变化。
 
-### 4.2 样本处理与 RNA 提取
+### 样本处理与 RNA 提取
 
 **操作内容**：收集细胞或组织，快速裂解并进行 [RNA 提取](RNA提取.md)。细胞样本通常吸去培养基后用 [PBS](<../材(实验耗材工具篇)/PBS.md>) 或 [DPBS](<../材(实验耗材工具篇)/DPBS.md>) 快速洗涤，再加入裂解液。组织样本应尽量快速剪碎、研磨或匀浆，并减少室温暴露时间。
 
@@ -135,7 +137,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - 酚或盐残留：抑制逆转录和 PCR，表现为所有基因 Cq 偏高或无扩增。
 - 基因组 DNA 污染：no-RT control（无逆转录对照）出现扩增，尤其影响无内含子基因或假基因丰富目标。
 
-### 4.3 RNA 定量与质量评估
+### RNA 定量与质量评估
 
 **操作内容**：测定 RNA 浓度和纯度，必要时检测 RNA 完整性。常用指标包括 A260/A280、A260/A230、凝胶电泳或 RIN（RNA integrity number，RNA 完整性数值）。
 
@@ -158,7 +160,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - 污染物残留：逆转录或 qPCR 被抑制。
 - 不同样本输入差异过大：归一化压力增加，重复性变差。
 
-### 4.4 去除基因组 DNA
+### 去除基因组 DNA
 
 **操作内容**：使用 DNase I 处理 RNA，或选择带 on-column DNase digestion（柱上 DNase 消化）的 RNA 提取流程。随后通过 no-RT control 检查是否仍有 DNA 污染。
 
@@ -180,7 +182,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - no-RT control 出现扩增：说明可能有 DNA 污染。
 - 处理组和对照组 DNA 污染程度不同：会造成假差异。
 
-### 4.5 逆转录
+### 逆转录
 
 **操作内容**：按逆转录试剂盒说明，将 RNA、引物、逆转录酶、dNTP、buffer 和无核酸酶水配置成反应体系，经过退火、延伸和酶失活步骤生成 cDNA。
 
@@ -205,7 +207,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - RNA 输入量不一致：样本间差异被放大。
 - 引物选择不当：某些转录本区域检测偏差。
 
-### 4.6 qPCR 反应体系配置
+### qPCR 反应体系配置
 
 **操作内容**：在冰上或低温条件下配置 qPCR 反应体系，通常包括 qPCR Master Mix、forward primer（正向引物）、reverse primer（反向引物）、模板 cDNA 和无核酸酶水。轻柔混匀，短暂离心去除气泡。
 
@@ -232,7 +234,7 @@ RT-qPCR 可以拆成两个核心步骤：
 - 复孔差异大：移液误差、气泡、封膜不严或模板混匀不充分。
 - 全板边缘孔异常：可能蒸发或温控不均。
 
-### 4.7 qPCR 上机程序
+### qPCR 上机程序
 
 **操作内容**：设置 qPCR 仪程序。常见 SYBR Green two-step 程序包括酶激活/预变性、循环变性和退火/延伸，最后加 melt curve。TaqMan probe 体系通常不需要熔解曲线。
 
@@ -262,9 +264,9 @@ RT-qPCR 可以拆成两个核心步骤：
 - 退火温度过高：扩增效率低，Cq 偏高。
 - 未做 melt curve：SYBR Green 结果难以判断特异性。
 
-## 5. 实验结果解析
+## 实验结果解析
 
-### 5.1 首先看质控
+### 首先看质控
 
 先不要急着算 fold change。推荐按这个顺序检查：
 
@@ -275,13 +277,13 @@ RT-qPCR 可以拆成两个核心步骤：
 5. 参考基因 Cq 是否稳定。
 6. 目标基因 Cq 是否在可信检测范围内，过晚的 Cq 需要谨慎解释。
 
-### 5.2 扩增效率与标准曲线
+### 扩增效率与标准曲线
 
 严格实验应使用标准曲线评估引物效率。常见做法是将 cDNA 或标准品做梯度稀释，绘制 Cq 对 log 输入量的标准曲线。许多 qPCR 指南建议扩增效率约 90%-110% 作为常见可接受范围，同时 R2 应足够高。[参考：Bio-Rad qPCR assay design](https://www.bio-rad.com/en-us/applications-technologies/real-time-pcr-assay-design-optimization)
 
 如果目标基因和参考基因效率接近，可以使用 2^-ΔΔCq 方法。Livak 和 Schmittgen 2001 年文章是该方法最常引用的来源之一。[参考：Livak and Schmittgen, 2001](https://pubmed.ncbi.nlm.nih.gov/11846609/) 如果扩增效率不同，应考虑 Pfaffl 方法等效率校正模型。[参考：Pfaffl, 2001](https://pubmed.ncbi.nlm.nih.gov/11328886/)
 
-### 5.3 相对定量基本流程
+### 相对定量基本流程
 
 常见 2^-ΔΔCq 流程：
 
@@ -292,14 +294,14 @@ RT-qPCR 可以拆成两个核心步骤：
 
 如果使用多个参考基因，可以先计算参考基因表达的几何平均值，再用于归一化。这样通常比单一参考基因更稳健。[参考：Vandesompele et al., 2002](https://pubmed.ncbi.nlm.nih.gov/12184808/)
 
-### 5.4 结果表达建议
+### 结果表达建议
 
 - 图中建议展示 biological replicate（生物学重复）的均值和离散程度，而不是只展示技术重复。
 - 统计检验应基于独立生物学重复。
 - 如果使用 ΔCq 做统计，再转换成 fold change 展示，需要在方法中写清楚。
 - 低表达基因、Cq 很晚或接近检测下限时，不宜过度解释小倍数变化。
 
-## 6. 可能出现异常结果及对应原因
+## 可能出现异常结果及对应原因
 
 | 异常结果 | 可能原因 | 处理策略 |
 | --- | --- | --- |
@@ -315,7 +317,7 @@ RT-qPCR 可以拆成两个核心步骤：
 | 实验组变化巨大但重复差 | 样本质量不一致、RNA 降解、逆转录不稳定 | 回查 RNA 质量和逆转录批次 |
 | 边缘孔 Cq 偏移 | 蒸发、封膜不严、板温控边缘效应 | 避免边缘孔或加强封膜和离心 |
 
-## 7. 推荐记录模板
+## 推荐记录模板
 
 为了让 RT-qPCR 结果可复现，建议至少记录：
 

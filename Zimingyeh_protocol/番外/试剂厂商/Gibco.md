@@ -4,7 +4,9 @@
 
 Gibco 是 [Thermo Fisher Scientific（赛默飞世尔科技）](赛默飞.md)旗下的生命科学试剂品牌，最核心的领域是细胞培养相关试剂。它的价值不只是“卖培养基、血清、PBS 这些单品”，而是提供相对完整的细胞培养试剂体系、配方资料、批次追踪、质量文件和技术支持。[参考：Thermo Fisher Gibco 品牌页](https://www.thermofisher.com/my/en/home/brands/gibco.html)
 
-![Gibco 体系化细胞培养供应商概要](../../z_asset/番外/试剂厂商/Gibco/gibco-overview.svg)
+![Gibco summary abstract graph](../../z_asset/番外/试剂厂商/Gibco/gibco-summary-abstract-en.png)
+
+![Gibco 中文概要图](../../z_asset/番外/试剂厂商/Gibco/gibco-summary-abstract-zh.png)
 
 ## 名称来源与品牌关系
 
