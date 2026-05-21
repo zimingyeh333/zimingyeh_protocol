@@ -28,6 +28,7 @@ GitHub 上也可以直接阅读这些 Markdown 文件。为了兼容 GitHub，�
 - RT-qPCR、RNA 提取、逆转录等分子实验。
 - PBS、DPBS、DMSO、HEPES、Trypsin-EDTA、台盼蓝等常用试剂。
 - 移液枪、生物安全柜、培养容器等实验工具和耗材。
+- 实验室基础安全、风险评估、PPE、化学品安全、生物安全和事故应急。
 - Gibco、Thermo Fisher、ATCC 等试剂厂商和资源来源。
 
 ## 笔记特点
