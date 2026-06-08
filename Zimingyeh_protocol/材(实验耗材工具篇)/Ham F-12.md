@@ -59,7 +59,7 @@ Gibco 页面指出，与其他基础培养基相比，F-12 含更广泛的组分
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时最重要的是确认“F-12、F-12K、DMEM/F-12”到底是哪一个，并记录是否含 L-glutamine、phenol red、sodium pyruvate 和 HEPES。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时最重要的是确认“F-12、F-12K、DMEM/F-12”到底是哪一个，并记录是否含 L-glutamine、phenol red、sodium pyruvate 和 HEPES。
 
 推荐记录模板（中文）：
 

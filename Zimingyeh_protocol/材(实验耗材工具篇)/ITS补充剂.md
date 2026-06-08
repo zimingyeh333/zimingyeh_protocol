@@ -73,7 +73,7 @@ ITS 不是完整无血清培养基。它常常只是 cocktail 里的基础层，
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)。优先选择细胞培养级、无菌、明确 formulation 的产品。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)。优先选择细胞培养级、无菌、明确 formulation 的产品。
 
 推荐记录模板（中文）：
 

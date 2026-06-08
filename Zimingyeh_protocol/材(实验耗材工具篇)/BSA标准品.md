@@ -75,7 +75,7 @@ Thermo Fisher Pierce 的 BSA Protein Assay Standards 官方资料把 2 mg/mL BSA
 
 ## 购买与记录建议
 
-常见选择包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) Pierce BSA 标准品、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>) 蛋白 assay standards、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>) BSA 产品。对于正式定量，优先买已标定浓度的 liquid standard（液体标准品）；对于预算紧张或教学练习，可用高纯 BSA 自配，但要接受更高误差。
+常见选择包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) Pierce BSA 标准品、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>) 蛋白 assay standards、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) BSA 产品。对于正式定量，优先买已标定浓度的 liquid standard（液体标准品）；对于预算紧张或教学练习，可用高纯 BSA 自配，但要接受更高误差。
 
 推荐记录模板（中文）：
 

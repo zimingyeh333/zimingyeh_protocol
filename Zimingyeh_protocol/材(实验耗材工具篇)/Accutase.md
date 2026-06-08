@@ -2,7 +2,7 @@
 
 Accutase（细胞温和解离液；常按商品名直接称 Accutase）是一种 ready-to-use（即用型）细胞解离试剂，常用于比 [Trypsin-EDTA](Trypsin-EDTA.md) 更温和地解离贴壁细胞、干细胞、神经细胞、内皮细胞和需要保留表面 marker 的细胞样本。它不是单一化学成分，而是商业化酶解离体系。
 
-[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>) 的 Accutase 说明将其定位为不含哺乳动物或细菌来源成分的即用型细胞解离试剂，可用于温和分离贴壁细胞；[Merck](<../番外/试剂厂商/Merck.md>) / [Sigma](<../番外/试剂厂商/Sigma.md>) 的 Accutase 页面也强调其适用于从标准塑料培养容器和黏附包被表面上解离细胞。[参考：STEMCELL Accutase](https://www.stemcell.com/products/accutase.html)；[参考：Sigma Accutase](https://www.sigmaaldrich.com/US/en/product/sigma/a6964)
+[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>) 的 Accutase 说明将其定位为不含哺乳动物或细菌来源成分的即用型细胞解离试剂，可用于温和分离贴壁细胞；[Merck](<../番外/试剂厂商/Merck.md>) / [Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) 的 Accutase 页面也强调其适用于从标准塑料培养容器和黏附包被表面上解离细胞。[参考：STEMCELL Accutase](https://www.stemcell.com/products/accutase.html)；[参考：Sigma Accutase](https://www.sigmaaldrich.com/US/en/product/sigma/a6964)
 
 ## 核心特点
 
@@ -91,7 +91,7 @@ Accutase 的实际优势取决于细胞类型和下游目的。它不是“永�
 
 ## 购买与记录建议
 
-常见供应商包括 [STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[Corning](<../番外/试剂厂商/Corning.md>) 等。购买时关注是否无菌、是否即用、是否含酚红、适配的储存温度、规格和批次文件。
+常见供应商包括 [STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[Corning](<../番外/试剂厂商/Corning.md>) 等。购买时关注是否无菌、是否即用、是否含酚红、适配的储存温度、规格和批次文件。
 
 推荐记录：
 

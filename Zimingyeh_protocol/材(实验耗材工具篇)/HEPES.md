@@ -88,7 +88,7 @@ HEPES 是额外缓冲，不是随便取消 CO2 的理由。常规碳酸氢盐培
 
 ## 购买建议
 
-可以购买 HEPES powder（粉末）自行配制，也可以购买无菌 HEPES solution（溶液）或含 HEPES 的商业培养基。细胞培养中优先选择 cell culture grade、sterile、endotoxin-controlled 的产品。常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)、[Merck](<../番外/试剂厂商/Merck.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)。
+可以购买 HEPES powder（粉末）自行配制，也可以购买无菌 HEPES solution（溶液）或含 HEPES 的商业培养基。细胞培养中优先选择 cell culture grade、sterile、endotoxin-controlled 的产品。常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Merck](<../番外/试剂厂商/Merck.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)。
 
 ## 推荐记录模板
 

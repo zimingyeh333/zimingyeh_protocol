@@ -65,7 +65,7 @@ Thermo Fisher 的 DMEM 页面提到，含 GlutaMAX 的 DMEM 可提供稳定的 L
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)。优先选择无菌、细胞培养级 200 mM 储液或已经验证的稳定替代物。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)。优先选择无菌、细胞培养级 200 mM 储液或已经验证的稳定替代物。
 
 推荐记录模板（中文）：
 

@@ -69,7 +69,7 @@ MEM 本身不含 protein、lipid 或 growth factors，通常需要血清或定�
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。记录时写清 Earle's salts/Hanks' salts、是否含 L-glutamine、phenol red、HEPES 和 sodium pyruvate。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。记录时写清 Earle's salts/Hanks' salts、是否含 L-glutamine、phenol red、HEPES 和 sodium pyruvate。
 
 推荐记录模板（中文）：
 

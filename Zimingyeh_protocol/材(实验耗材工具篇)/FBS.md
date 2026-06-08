@@ -81,7 +81,7 @@ FBS 不是单一化学试剂，而是动物来源复杂混合物。不同产地�
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。FBS 价格高、批次影响大，建议同一项目尽量使用同一批号，关键实验前先测试并保留足量同批次库存。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。FBS 价格高、批次影响大，建议同一项目尽量使用同一批号，关键实验前先测试并保留足量同批次库存。
 
 推荐记录模板（中文）：
 

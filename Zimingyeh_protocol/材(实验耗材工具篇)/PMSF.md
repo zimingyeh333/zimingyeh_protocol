@@ -79,7 +79,7 @@ PMSF 在水溶液中会水解，加入水相裂解液后有效浓度会随时间
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>) 等。日常 WB 更推荐使用商业 cocktail；单独 PMSF 适合需要明确控制 serine protease 抑制条件时使用。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>) 等。日常 WB 更推荐使用商业 cocktail；单独 PMSF 适合需要明确控制 serine protease 抑制条件时使用。
 
 推荐记录模板（中文）：
 

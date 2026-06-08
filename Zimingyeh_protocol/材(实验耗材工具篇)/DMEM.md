@@ -70,7 +70,7 @@ ATCC Animal Cell Culture Guide 也强调，培养基除营养外还维持 pH 和
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。培养基不建议只记录“DMEM”，至少记录完整商品名、货号和关键添加/缺失项。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。培养基不建议只记录“DMEM”，至少记录完整商品名、货号和关键添加/缺失项。
 
 推荐记录模板（中文）：
 

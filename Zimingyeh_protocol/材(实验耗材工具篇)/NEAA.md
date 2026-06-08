@@ -75,7 +75,7 @@ Gibco MEM Non-Essential Amino Acids Solution 页面说明，该 100X 溶液用�
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)。选择无菌、细胞培养级 100X 溶液即可；关键是不要把 NEAA 和 “amino acid supplement” 泛称混在一起。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)。选择无菌、细胞培养级 100X 溶液即可；关键是不要把 NEAA 和 “amino acid supplement” 泛称混在一起。
 
 推荐记录模板（中文）：
 

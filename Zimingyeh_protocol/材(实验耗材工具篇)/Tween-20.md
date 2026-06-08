@@ -28,7 +28,7 @@ Bio-Rad 的 Western blot detergent 页面提到 10% Tween-20 可让移液更准�
 | 试剂 | 类型 | 强度 | 常见用途 |
 | --- | --- | --- | --- |
 | Tween-20 | 非离子表面活性剂 | 温和 | WB/ELISA 洗涤、降低背景 |
-| [Triton X-100](Triton X-100.md) | 非离子去污剂 | 较强 | 细胞膜透化、温和裂解 |
+| [Triton X-100](<Triton X-100.md>) | 非离子去污剂 | 较强 | 细胞膜透化、温和裂解 |
 | [NP-40](NP-40.md) | 非离子去污剂 | 温和到中等 | 细胞裂解、免疫沉淀 |
 | [SDS](十二烷基硫酸钠.md) | 阴离子去污剂 | 强变性 | SDS-PAGE、强裂解 |
 
@@ -66,7 +66,7 @@ Bio-Rad 的 Western blot detergent 页面提到 10% Tween-20 可让移液更准�
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Cell Signaling Technology](<../番外/试剂厂商/Cell Signaling Technology.md>)。如果只是 WB 洗膜，普通 molecular biology grade 通常足够；如果用于细胞或特殊成像体系，需关注纯度、防腐剂和批间差异。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Cell Signaling Technology](<../番外/试剂厂商/Cell Signaling Technology.md>)。如果只是 WB 洗膜，普通 molecular biology grade 通常足够；如果用于细胞或特殊成像体系，需关注纯度、防腐剂和批间差异。
 
 推荐记录模板（中文）：
 

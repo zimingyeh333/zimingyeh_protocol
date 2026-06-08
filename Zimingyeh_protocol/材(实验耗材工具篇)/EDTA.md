@@ -88,7 +88,7 @@ PBS/DPBS 是否含 Ca2+/Mg2+ 会直接影响 EDTA 作用。如果消化前用含
 
 ## 购买与记录建议
 
-常见供应商包括 [Sigma](<../番外/试剂厂商/Sigma.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[Gibco](<../番外/试剂厂商/Gibco.md>)、[赛默飞](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>) 等。细胞培养场景推荐直接购买无菌商业 EDTA/Versene 或 Trypsin-EDTA；普通缓冲液可用分析级或分子生物学级 EDTA 自配。
+常见供应商包括 [Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[Gibco](<../番外/试剂厂商/Gibco.md>)、[赛默飞](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>) 等。细胞培养场景推荐直接购买无菌商业 EDTA/Versene 或 Trypsin-EDTA；普通缓冲液可用分析级或分子生物学级 EDTA 自配。
 
 推荐记录：
 

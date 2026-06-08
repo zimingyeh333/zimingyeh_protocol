@@ -64,7 +64,7 @@ Sigma-Aldrich 的 Aprotinin 产品资料将其描述为 serine protease inhibito
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。购买时重点看单位、来源、纯度、是否适合细胞裂解/蛋白实验，而不是只看质量规格。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。购买时重点看单位、来源、纯度、是否适合细胞裂解/蛋白实验，而不是只看质量规格。
 
 推荐记录模板（中文）：
 

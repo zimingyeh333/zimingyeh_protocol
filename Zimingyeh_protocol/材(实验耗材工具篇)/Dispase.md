@@ -2,7 +2,7 @@
 
 Dispase（中性蛋白酶；常指 Dispase I 或 Dispase II）是一类相对温和的 neutral protease（中性蛋白酶），常用于组织、细胞团块、干细胞克隆或上皮片层的解离。它的定位不是日常贴壁细胞传代的默认试剂，而是用于需要较温和处理 extracellular matrix（ECM，细胞外基质）和细胞片层结构的场景。
 
-[Sigma](<../番外/试剂厂商/Sigma.md>) / [Merck](<../番外/试剂厂商/Merck.md>) 的 Dispase II 产品说明将其描述为可用于温和组织解离和细胞收获的中性蛋白酶，并常用于分离上皮细胞、胚胎干细胞克隆或组织层。[参考：Sigma Dispase II](https://www.sigmaaldrich.com/US/en/product/roche/04942078001)
+[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) / [Merck](<../番外/试剂厂商/Merck.md>) 的 Dispase II 产品说明将其描述为可用于温和组织解离和细胞收获的中性蛋白酶，并常用于分离上皮细胞、胚胎干细胞克隆或组织层。[参考：Sigma Dispase II](https://www.sigmaaldrich.com/US/en/product/roche/04942078001)
 
 ## 核心作用
 
@@ -19,7 +19,7 @@ Dispase 的优势是比 [Trypsin-EDTA](Trypsin-EDTA.md) 更偏向温和地处理
 
 - 干细胞克隆或细胞片层的温和收获。
 - 上皮组织、皮肤、黏膜等组织层分离。
-- 与 [胶原酶](胶原酶.md)、[DNase I](DNase I.md) 或机械剪碎组合，用于原代细胞分离。
+- 与 [胶原酶](胶原酶.md)、[DNase I](<DNase I.md>) 或机械剪碎组合，用于原代细胞分离。
 - 某些需要保留细胞表面结构和活性的组织解离流程。
 - 从 ECM 包被或基质环境中释放细胞团块。
 
@@ -74,7 +74,7 @@ Dispase 的优势是比 [Trypsin-EDTA](Trypsin-EDTA.md) 更偏向温和地处理
 
 ## 购买与记录建议
 
-常见供应商包括 [Sigma](<../番外/试剂厂商/Sigma.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>) 等。购买时关注：
+常见供应商包括 [Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) / [Merck](<../番外/试剂厂商/Merck.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>) 等。购买时关注：
 
 - Dispase I 还是 Dispase II。
 - 粉末还是溶液。

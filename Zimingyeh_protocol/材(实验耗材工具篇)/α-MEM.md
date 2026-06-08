@@ -75,7 +75,7 @@ Penicillin-Streptomycin：1% v/v（可选）
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。优先按细胞/分化 protocol 的指定版本购买，尤其注意 with/without nucleosides。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。优先按细胞/分化 protocol 的指定版本购买，尤其注意 with/without nucleosides。
 
 推荐记录模板（中文）：
 

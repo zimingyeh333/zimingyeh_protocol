@@ -62,7 +62,7 @@ Sigma-Aldrich 的 Leupeptin hemisulfate 产品资料将其描述为可抑制 ser
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>) 等。购买时注意是 leupeptin hemisulfate、leupeptin hydrochloride 还是其他形式。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>) 等。购买时注意是 leupeptin hemisulfate、leupeptin hydrochloride 还是其他形式。
 
 推荐记录模板（中文）：
 

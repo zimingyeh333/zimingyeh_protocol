@@ -161,7 +161,7 @@ DPBS 只适合短时间处理或运输，不适合长时间保存细胞。长时
 
 如果实验室消耗量大，可以购买 10× DPBS 或 powder（干粉），但要建立统一稀释、调 pH、过滤和标记流程。
 
-优先选择有完整 COA、货号、批号、配方说明的品牌，例如 [Gibco](<../番外/试剂厂商/Gibco.md>)/[Thermo Fisher Scientific](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Cytiva](<../番外/试剂厂商/Cytiva.md>)/[HyClone](<../番外/试剂厂商/HyClone.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)等。购买时不要只看“DPBS”四个字，要看具体 formulation（配方）。
+优先选择有完整 COA、货号、批号、配方说明的品牌，例如 [Gibco](<../番外/试剂厂商/Gibco.md>)/[Thermo Fisher Scientific](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Cytiva](<../番外/试剂厂商/Cytiva.md>)/[HyClone](<../番外/试剂厂商/HyClone.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)等。购买时不要只看“DPBS”四个字，要看具体 formulation（配方）。
 
 ## 小结
 

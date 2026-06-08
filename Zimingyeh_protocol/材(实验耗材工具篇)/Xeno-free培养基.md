@@ -61,7 +61,7 @@ Xeno-free 的核心问题是：培养基、补充剂、生长因子、酶、基�
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)、[Lonza](<../番外/试剂厂商/Lonza.md>)、[PromoCell](<../番外/试剂厂商/PromoCell.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时要看清 xeno-free、animal component-free、GMP、CTS、RUO 等标签含义，不能混用。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[STEMCELL Technologies](<../番外/试剂厂商/STEMCELL Technologies.md>)、[Lonza](<../番外/试剂厂商/Lonza.md>)、[PromoCell](<../番外/试剂厂商/PromoCell.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时要看清 xeno-free、animal component-free、GMP、CTS、RUO 等标签含义，不能混用。
 
 推荐记录模板（中文）：
 

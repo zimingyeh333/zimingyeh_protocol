@@ -65,7 +65,7 @@ TEMED 有刺激性、挥发性和明显气味，应在通风良好环境中操�
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)。选择 electrophoresis-suitable grade（适合电泳等级）即可。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)。选择 electrophoresis-suitable grade（适合电泳等级）即可。
 
 推荐记录模板（中文）：
 

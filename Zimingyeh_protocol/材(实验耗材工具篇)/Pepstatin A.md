@@ -73,7 +73,7 @@ Pepstatin A 水溶性较差，常用 DMSO、methanol（甲醇）或 ethanol（�
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。多数常规 WB 不需要单独购买大包装 Pepstatin A；使用成熟 cocktail 更方便，单独购买适合做机制性优化或自配 cocktail。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Roche](<../番外/试剂厂商/Roche.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。多数常规 WB 不需要单独购买大包装 Pepstatin A；使用成熟 cocktail 更方便，单独购买适合做机制性优化或自配 cocktail。
 
 推荐记录模板（中文）：
 

@@ -66,7 +66,7 @@ Triton X-100 和 NP-40 常被放在同一类讨论，但不能默认所有配方
 
 ## 购买与记录建议
 
-常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>) 等。购买时注意 grade（等级）、是否适合 molecular biology/protein work，以及是否是 Triton X-100 本体或替代品。
+常见供应商包括 [Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>) 等。购买时注意 grade（等级）、是否适合 molecular biology/protein work，以及是否是 Triton X-100 本体或替代品。
 
 推荐记录模板（中文）：
 

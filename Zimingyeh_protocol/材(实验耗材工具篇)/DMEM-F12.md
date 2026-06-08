@@ -83,7 +83,7 @@ Matrix/coating：按细胞贴壁或三维培养需求
 
 ## 购买与记录建议
 
-常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时优先按细胞 protocol 的货号或等效配方选择，不要只凭“DMEM/F12”四个字替换。
+常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[HyClone](<../番外/试剂厂商/HyClone.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时优先按细胞 protocol 的货号或等效配方选择，不要只凭“DMEM/F12”四个字替换。
 
 推荐记录模板（中文）：
 

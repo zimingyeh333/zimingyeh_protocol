@@ -70,7 +70,7 @@ DTT 应按具体产品 [SDS与GHS标签](<../实验室安全/SDS与GHS标签.md>
 
 ## 购买与记录建议
 
-常见供应商包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[NEB](<../番外/试剂厂商/NEB.md>)。日常 WB 可买粉末自配或购买稳定化 10x reducing agent；若批量做样本，稳定化液体更省心。
+常见供应商包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[NEB](<../番外/试剂厂商/NEB.md>)。日常 WB 可买粉末自配或购买稳定化 10x reducing agent；若批量做样本，稳定化液体更省心。
 
 推荐记录模板（中文）：
 

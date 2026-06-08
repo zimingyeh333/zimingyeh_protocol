@@ -71,7 +71,7 @@ WB 中不是不能用 PBS/PBST，但很多抗体说明书和经典流程默认 T
 
 ## 购买与记录建议
 
-常见供应商包括 [Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Cytiva](<../番外/试剂厂商/Cytiva.md>)。如果用于蛋白电泳或分子生物学，优先选择 molecular biology grade（分子生物学级）或 electrophoresis grade（电泳级）。
+常见供应商包括 [Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>)、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Cytiva](<../番外/试剂厂商/Cytiva.md>)。如果用于蛋白电泳或分子生物学，优先选择 molecular biology grade（分子生物学级）或 electrophoresis grade（电泳级）。
 
 推荐记录模板（中文）：
 

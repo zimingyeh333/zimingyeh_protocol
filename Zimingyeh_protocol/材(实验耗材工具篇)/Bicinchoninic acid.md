@@ -66,7 +66,7 @@ Merck/Sigma 的 BCA 方法资料中，典型工作液可由 49 mL Bicinchoninic 
 
 ## 购买与记录建议
 
-单独购买 BCA solution 通常用于自配或半自配 BCA 体系；大多数日常实验更推荐直接购买 [BCA蛋白定量试剂盒](BCA蛋白定量试剂盒.md)，因为其中 BCA 溶液、铜试剂、[BSA标准品](BSA标准品.md) 和说明书已经配套。常见供应商包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) Pierce、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma](<../番外/试剂厂商/Sigma.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Cell Signaling Technology](<../番外/试剂厂商/Cell Signaling Technology.md>) 等。
+单独购买 BCA solution 通常用于自配或半自配 BCA 体系；大多数日常实验更推荐直接购买 [BCA蛋白定量试剂盒](BCA蛋白定量试剂盒.md)，因为其中 BCA 溶液、铜试剂、[BSA标准品](BSA标准品.md) 和说明书已经配套。常见供应商包括 [Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) Pierce、[Merck](<../番外/试剂厂商/Merck.md>)/[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Bio-Rad](<../番外/试剂厂商/Bio-Rad.md>)、[Cell Signaling Technology](<../番外/试剂厂商/Cell Signaling Technology.md>) 等。
 
 推荐记录模板（中文）：
 

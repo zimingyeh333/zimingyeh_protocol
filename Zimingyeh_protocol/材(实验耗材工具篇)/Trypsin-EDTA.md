@@ -140,7 +140,7 @@ Thermo Fisher 的比较表指出，TrypLE 试剂是重组、动物源风险更�
 
 ## 购买建议
 
-常规贴壁细胞系可选 0.25% Trypsin-EDTA 或 0.05% Trypsin-EDTA；敏感细胞、原代细胞、干细胞和表面 marker 相关实验要优先考虑更温和的替代方案。常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[ATCC](<../番外/试剂厂商/ATCC.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)。
+常规贴壁细胞系可选 0.25% Trypsin-EDTA 或 0.05% Trypsin-EDTA；敏感细胞、原代细胞、干细胞和表面 marker 相关实验要优先考虑更温和的替代方案。常见供应商包括 [Gibco](<../番外/试剂厂商/Gibco.md>)、[ATCC](<../番外/试剂厂商/ATCC.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)。
 
 购买时重点看：浓度、是否含 EDTA、是否含 phenol red、动物源信息、无菌测试、支原体检测、储存条件和是否适合原代/干细胞。
 

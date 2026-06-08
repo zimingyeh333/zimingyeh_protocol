@@ -82,7 +82,7 @@ Invitrogen TRIzol Reagent 的官方说明将其用于从细胞和组织中分离
 
 ## 购买与记录建议
 
-常见产品包括 [Invitrogen](<../番外/试剂厂商/Invitrogen.md>) TRIzol Reagent、[Sigma](<../番外/试剂厂商/Sigma.md>) TRI Reagent 等。购买时注意样本类型、包装规格、储存条件和安全数据表 SDS。
+常见产品包括 [Invitrogen](<../番外/试剂厂商/Invitrogen.md>) TRIzol Reagent、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>) TRI Reagent 等。购买时注意样本类型、包装规格、储存条件和安全数据表 SDS。
 
 推荐记录：
 

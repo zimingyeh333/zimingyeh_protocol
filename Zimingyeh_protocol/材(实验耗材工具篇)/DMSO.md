@@ -114,7 +114,7 @@ Sigma-Aldrich 的 DMSO Hybri-Max 产品问答指出，DMSO 具有 hygroscopic（
 
 ## 购买建议
 
-细胞实验优先购买 cell culture grade、sterile-filtered、低内毒素或有细胞毒性测试说明的产品。常见可选品牌包括 [Sigma](<../番外/试剂厂商/Sigma.md>)、[Merck](<../番外/试剂厂商/Merck.md>)、[Gibco](<../番外/试剂厂商/Gibco.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。用于 PCR 的 DMSO 可以按分子生物学级选择，但不要反过来把普通分子级 DMSO 默认用于细胞冻存。
+细胞实验优先购买 cell culture grade、sterile-filtered、低内毒素或有细胞毒性测试说明的产品。常见可选品牌包括 [Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)、[Merck](<../番外/试剂厂商/Merck.md>)、[Gibco](<../番外/试剂厂商/Gibco.md>)、[Thermo Scientific](<../番外/试剂厂商/Thermo Scientific.md>) 等。用于 PCR 的 DMSO 可以按分子生物学级选择，但不要反过来把普通分子级 DMSO 默认用于细胞冻存。
 
 ## 推荐记录模板
 

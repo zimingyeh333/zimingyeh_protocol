@@ -57,7 +57,7 @@ TGF-β 通常通过 type I/type II serine-threonine kinase receptors（I/II 型�
 
 ## 购买与记录建议
 
-常见供应商包括 [PeproTech](<../番外/试剂厂商/PeproTech.md>)、[R&D Systems](<../番外/试剂厂商/R&D Systems.md>)、[BioLegend](<../番外/试剂厂商/BioLegend.md>)、[Sino Biological](<../番外/试剂厂商/Sino Biological.md>)、[Sigma](<../番外/试剂厂商/Sigma.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时要区分 TGF-β1、TGF-β2、TGF-β3，记录 active/latent 状态和生物活性。
+常见供应商包括 [PeproTech](<../番外/试剂厂商/PeproTech.md>)、[R&D Systems](<../番外/试剂厂商/R&D Systems.md>)、[BioLegend](<../番外/试剂厂商/BioLegend.md>)、[Sino Biological](<../番外/试剂厂商/Sino Biological.md>)、[Sigma-Aldrich](<../番外/试剂厂商/Sigma-Aldrich.md>)/[Merck](<../番外/试剂厂商/Merck.md>)。购买时要区分 TGF-β1、TGF-β2、TGF-β3，记录 active/latent 状态和生物活性。
 
 推荐记录模板（中文）：
 

@@ -146,7 +146,7 @@ CSH Protocols 推荐 PBS 可通过高压灭菌液体程序或过滤除菌，室�
 
 ## 购买建议
 
-常规细胞培养洗涤优先购买：无菌、1×、无 Ca2+/Mg2+、无酚红 PBS 或 DPBS。可选品牌包括 [Gibco](<../番外/试剂厂商/Gibco.md>)/[Thermo Fisher](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Cytiva/HyClone](<../番外/试剂厂商/Cytiva.md>)、[Sigma/Merck](<../番外/试剂厂商/Sigma.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)等。购买时最重要的是查看 COA（Certificate of analysis，分析证书）或产品说明中的 pH、渗透压、无菌、内毒素、是否含 Ca2+/Mg2+、是否含酚红，而不是只看商品名。
+常规细胞培养洗涤优先购买：无菌、1×、无 Ca2+/Mg2+、无酚红 PBS 或 DPBS。可选品牌包括 [Gibco](<../番外/试剂厂商/Gibco.md>)/[Thermo Fisher](<../番外/试剂厂商/赛默飞.md>)、[Corning](<../番外/试剂厂商/Corning.md>)、[Cytiva/HyClone](<../番外/试剂厂商/Cytiva.md>)、[Sigma/Merck](<../番外/试剂厂商/Sigma-Aldrich.md>)、[碧云天](<../番外/试剂厂商/碧云天.md>)、[索莱宝](<../番外/试剂厂商/索莱宝.md>)等。购买时最重要的是查看 COA（Certificate of analysis，分析证书）或产品说明中的 pH、渗透压、无菌、内毒素、是否含 Ca2+/Mg2+、是否含酚红，而不是只看商品名。
 
 大量消耗时可以购买 PBS powder（PBS 干粉）或 PBS tablet（PBS 片剂），也可以自己配 10× PBS 储液。Sigma 的 PBS tablet 说明给出的工作液约为 10 mM phosphate、约 137-140 mM NaCl、约 2.7-3 mM KCl、pH 7.4，适合减少称量误差。[参考：Sigma PBS tablets](https://www.sigmaaldrich.com/US/en/product/mm/524650)
 
