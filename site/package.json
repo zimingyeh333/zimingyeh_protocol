@@ -1,0 +1,30 @@
+{
+  "name": "zimingyeh-protocol-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:content": "node scripts/sync-content.mjs",
+    "predev": "npm run sync:content",
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "prebuild": "npm run sync:content",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro check && ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "precheck": "npm run sync:content",
+    "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
+    "audit:privacy": "node scripts/audit-site.mjs privacy",
+    "audit:links": "node scripts/audit-site.mjs links",
+    "audit:images": "node scripts/audit-site.mjs images",
+    "audit:images:strict": "STRICT_HOTLINKS=1 node scripts/audit-site.mjs images",
+    "audit:empty": "node scripts/audit-site.mjs empty",
+    "audit:search": "node scripts/audit-site.mjs search",
+    "audit:security": "npm audit --audit-level=high",
+    "audit:build": "node scripts/audit-site.mjs build"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.0",
+    "@astrojs/starlight": "^0.36.0",
+    "astro": "^5.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,84 @@
+:root {
+  --sl-color-accent-low: #d7f3e8;
+  --sl-color-accent: #11745d;
+  --sl-color-accent-high: #083d35;
+  --sl-color-text-accent: #0f6b57;
+  --protocol-surface: color-mix(in srgb, var(--sl-color-bg) 94%, #e7f6ef);
+  --protocol-border: color-mix(in srgb, var(--sl-color-accent) 18%, var(--sl-color-gray-5));
+  --protocol-soft: color-mix(in srgb, var(--sl-color-accent-low) 58%, var(--sl-color-bg));
+  --sl-content-width: 52rem;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #123a33;
+  --sl-color-accent: #58d4af;
+  --sl-color-accent-high: #c7f4e5;
+  --sl-color-text-accent: #8ce8c8;
+  --protocol-surface: color-mix(in srgb, var(--sl-color-bg) 88%, #123a33);
+  --protocol-border: color-mix(in srgb, var(--sl-color-accent) 24%, var(--sl-color-gray-5));
+  --protocol-soft: color-mix(in srgb, var(--sl-color-accent-low) 38%, var(--sl-color-bg));
+}
+
+.hero {
+  border-bottom: 1px solid var(--sl-color-hairline-light);
+}
+
+.hero .tagline {
+  max-width: 44rem;
+  color: var(--sl-color-gray-2);
+}
+
+.sl-markdown-content .card-grid {
+  gap: 1rem;
+}
+
+.sl-markdown-content .card {
+  border-color: var(--protocol-border);
+  border-radius: 8px;
+  background: var(--protocol-surface);
+  box-shadow: none;
+  padding: 1.25rem;
+}
+
+.sl-markdown-content .card .title {
+  color: var(--sl-color-text-accent);
+  font-size: var(--sl-text-xl);
+  letter-spacing: 0;
+}
+
+.sl-markdown-content .card .body {
+  color: var(--sl-color-text);
+  font-size: var(--sl-text-base);
+}
+
+.sl-markdown-content .card a {
+  font-weight: 650;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.2em;
+}
+
+.sl-markdown-content blockquote {
+  border-inline-start-color: var(--sl-color-accent);
+  background: var(--protocol-soft);
+  border-radius: 0 8px 8px 0;
+  padding: 0.75rem 1rem;
+}
+
+.sl-markdown-content li::marker {
+  color: var(--sl-color-accent);
+}
+
+.sidebar-content a[aria-current='page'],
+.right-sidebar a[aria-current='true'] {
+  color: var(--sl-color-text-accent);
+}
+
+site-search button[data-open-modal] {
+  border-radius: 8px;
+}
+
+@media (min-width: 50rem) {
+  .sl-markdown-content .card-grid {
+    gap: 1.25rem;
+  }
+}
