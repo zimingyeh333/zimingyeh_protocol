@@ -16,7 +16,7 @@ GelRed（GelRed Nucleic Acid Gel Stain，GelRed 核酸凝胶染料）是 [Biotiu
 | 有 prestain loading buffer 版本 | 可把上样和染色合并 |
 | Biotium 定位为 EB 替代物 | 降低突变性和废弃物处理压力 |
 
-Biotium 官方资料说明，GelRed/GelGreen 是 safer ethidium bromide alternatives，并强调可用于 precast 或 post-electrophoresis staining，且兼容 cloning 和 sequencing。参考：[Biotium GelRed and GelGreen DNA Gel Stains](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/)。
+Biotium 官方资料说明，GelRed/[GelGreen](GelGreen.md) 是 safer ethidium bromide alternatives，并强调可用于 precast 或 post-electrophoresis staining，且兼容 cloning 和 sequencing。参考：[Biotium GelRed and GelGreen DNA Gel Stains](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/)。
 
 ## GelRed 与 GelGreen
 

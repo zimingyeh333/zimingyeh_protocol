@@ -1,6 +1,6 @@
 # SYBR Safe
 
-SYBR Safe DNA Gel Stain（SYBR Safe DNA 凝胶染料）是 [Invitrogen](<../番外/试剂厂商/Invitrogen.md>) / Thermo Fisher 推出的核酸凝胶染料，用于在琼脂糖胶或丙烯酰胺胶中可视化 DNA，也可用于 RNA 凝胶染色。它常被用作 [EB](EB.md)（ethidium bromide，溴化乙锭）的低危替代方案，尤其适合需要蓝光成像和后续胶回收克隆的实验。
+SYBR Safe DNA Gel Stain（SYBR Safe DNA 凝胶染料）是 [Invitrogen](<../番外/试剂厂商/Invitrogen.md>) / Thermo Fisher 推出的核酸凝胶染料，用于在琼脂糖胶或丙烯酰胺胶中可视化 DNA，也可用于 RNA 凝胶染色。它常被用作 [EB](EB.md)（ethidium bromide，溴化乙锭）的低危替代方案，尤其适合需要 [蓝光成像](<../番外/补充知识/蓝光成像.md>) 和后续胶回收克隆的实验。
 
 ![核酸电泳试剂组参考图](<../z_asset/材/SYBR Safe/nucleic-acid-gel-reagents-reference.png>)
 
