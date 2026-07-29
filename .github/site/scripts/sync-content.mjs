@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const SITE_ROOT = path.resolve(SCRIPT_DIR, '..');
-const SOURCE_ROOT = path.resolve(SITE_ROOT, '..', 'Zimingyeh_protocol');
+const SOURCE_ROOT = path.resolve(SITE_ROOT, '..', '..', 'Zimingyeh_protocol');
 const SOURCE_ASSET_ROOT = path.join(SOURCE_ROOT, 'z_asset');
 const GENERATED_ROOT = path.join(SITE_ROOT, 'src', 'content', 'docs', 'generated');
 const PUBLIC_ASSET_ROOT = path.join(SITE_ROOT, 'public', 'z_asset');
@@ -84,7 +84,7 @@ function ensureSourceRoot() {
   if (!fs.existsSync(SOURCE_ROOT) || !fs.statSync(SOURCE_ROOT).isDirectory()) {
     throw new Error(`Public source directory not found: ${SOURCE_ROOT}`);
   }
-  assertInside(SOURCE_ROOT, path.resolve(SITE_ROOT, '..'), 'SOURCE_ROOT');
+  assertInside(SOURCE_ROOT, path.resolve(SITE_ROOT, '..', '..'), 'SOURCE_ROOT');
 }
 
 function isBlockedPath(absPath) {
